@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+---
 *I'm trying to learn more and become better*
 ---
 - 🔭 I’m currently studying in a university
