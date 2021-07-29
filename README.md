@@ -5,4 +5,4 @@
 - 🌱 I’m currently learning golang
 - 👯 I’m looking to collaborate on studying together
 - 🤔 I’m looking for help with how to learn porgramming
-- 📫 How to reach me: <220201090428@ncepu.edu.cn>
+- 📫 How to reach me: <1750132640@qq.com>
