@@ -5,6 +5,7 @@
 - 🤔 I’m currently learning Golang
 - ⚽ I’m looking for help with how to learn porgramming
 -  How to reach me: <1750132640@qq.com>
+-  My blog: https://www.yuque.com/shplume
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=225 align="center" src="https://github-readme-stats.vercel.app/api?username=shplume&count_private=true&theme=react&rank_icon=github" />
