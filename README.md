@@ -3,7 +3,6 @@
 ***I'm trying to learn more and become better***
 - 🍻 I’m a college student
 - 🤔 I’m currently learning Golang
-- ⚽ I’m looking for help with how to learn porgramming
 -  How to reach me: <1750132640@qq.com>
 -  My blog: https://www.yuque.com/shplume
 
