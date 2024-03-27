@@ -10,5 +10,5 @@
   <img height=225 align="center" src="https://github-readme-stats.vercel.app/api?username=shplume&count_private=true&theme=react&rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=225 align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=shplume&theme=vue-dark" />
+  <img height=225 align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=shplume&theme=vue-dark&exclude_repo=compass" />
 </a>
